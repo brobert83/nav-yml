@@ -1,0 +1,7 @@
+my:
+  living:
+    rent:
+      city: London
+      country: Hackney
+    internet:
+      provider: Hyperoptic
