@@ -59,6 +59,8 @@ public class NavYmlApplication {
 }
 
 ```
+### This is how it should look in the class, by clicking those green leafs the ide will take you to the location in the yml where that prop is declared
+![alt text](https://github.com/brobert83/nav-yml/blob/master/github-content/nav_from_code.png?raw=true)
 
 #### Notes:
 - it does not work in combination lombok (@Getter @Setter)
