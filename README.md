@@ -63,6 +63,6 @@ public class NavYmlApplication {
 ![alt text](https://github.com/brobert83/nav-yml/blob/master/github-content/nav_from_code.png?raw=true)
 
 #### Notes:
-- it does not work in combination lombok (@Getter @Setter)
+- it does not work in combination with Lombok (@Getter @Setter)
 - the annotation processing must be enabled in Intellij
 - I've noticed that sometimes the IDE needs some time to make the binding happen
